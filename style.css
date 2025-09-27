@@ -1,0 +1,274 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  background: #0b0f1a;
+  color: #fff;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 50px;
+  background: #0b0f1a;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  width: 35px;
+  height: 35px;
+}
+
+.brand {
+  font-size: 1.2rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.95rem;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff7300;
+}
+
+.auth-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.btn {
+  background: #ff7300;
+  color: #fff;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.3s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  background: #ff9500;
+}
+
+.btn-outline {
+  background: transparent;
+  color: #fff;
+  padding: 8px 15px;
+  border: 1px solid #ff7300;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.3s;
+}
+
+.btn-outline:hover {
+  background: #ff7300;
+  color: #fff;
+}
+
+/* Hero Section */
+.hero {
+ 
+  text-align: center;
+  padding: 100px 20px;
+}
+
+
+.hero h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3;
+  
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+/* Success Story */
+.success {
+  padding: 50px;
+  text-align: center;
+}
+
+.success h3 {
+  margin-bottom: 30px;
+  font-size: 1.8rem;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #101522;
+  border: 1px solid #00aaff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 250px;
+  text-align: left;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 15px #00aaff;
+}
+
+.card h4 {
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: #ff7300;
+}
+
+.card p {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.highlight {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 3px 8px;
+  background: #ff7300;
+  color: #fff;
+  font-size: 0.8rem;
+  border-radius: 5px;
+}
+
+.stats {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.stats h2 {
+  color: #ff7300;
+  font-size: 2rem;
+}
+
+.stats p {
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+footer {
+  background-color: #0a0a0f;
+  padding: 20px 40px;
+  color: white;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between; /* 3 columns spread out */
+  align-items: center;
+  flex-wrap: wrap; /* mobile me neeche chale jayenge */
+  gap: 20px;
+  text-align: center;
+}
+
+.footer-col {
+  flex: 1;
+}
+
+.social-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 40px); /* 2 icons per row */
+  gap: 10px;
+  justify-content: center;
+}
+
+.social-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  background: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.linkedin i { color: #0077b5; }
+.facebook i { color: #1877f2; }
+.instagram i { color: #e4405f; }
+.whatsapp i { color: #25d366; }
+
+.gradient-text {
+  background: linear-gradient(90deg, #e25430, #dbb99f); /* orange to peach */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  font-weight: bold;
+}
+.gradient-teext {
+  background: linear-gradient(90deg, hsl(219, 86%, 72%), #4b7dd3, #eec7ff); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  font-weight: bold;
+}
+
+.hero {
+  background: url("bg2.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 100vh; /* poora screen cover kare */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white; /* text white for contrast */
+  text-align: center;
+  position: relative;
+}
+
+/* overlay effect for better text visibility */
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.4); /* thoda dark shade */
+  z-index: 0;
+}
+
+.hero .gradient-teext, 
+.hero .hero-buttons, 
+.hero .btn,
+.hero.btn-outline{
+  position: relative;
+  z-index: 1; /* text overlay ke upar rahe */
+}
