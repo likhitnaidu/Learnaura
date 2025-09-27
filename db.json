@@ -1,0 +1,948 @@
+{
+  "students": [
+    {
+      "id": "user-jee-1",
+      "name": "Arjun Patel",
+      "email": "arjunpatel@jee.edu",
+      "password": "arjun@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-2",
+      "name": "Vikram Rao",
+      "email": "vikramrao@jee.edu",
+      "password": "vikram@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-3",
+      "name": "Rhea Sharma",
+      "email": "rheasharma@jee.edu",
+      "password": "rhea@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-4",
+      "name": "Karan Gupta",
+      "email": "karangupta@jee.edu",
+      "password": "karan@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-5",
+      "name": "Ishaan Mehta",
+      "email": "ishaanmehta@jee.edu",
+      "password": "ishaan@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-6",
+      "name": "Neha Kapoor",
+      "email": "nehakapoor@jee.edu",
+      "password": "neha@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-7",
+      "name": "Siddharth Das",
+      "email": "siddharthdas@jee.edu",
+      "password": "siddharth@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-8",
+      "name": "Priya Nair",
+      "email": "priyanair@jee.edu",
+      "password": "priya@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-9",
+      "name": "Rahul Verma",
+      "email": "rahulverma@jee.edu",
+      "password": "rahul@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-10",
+      "name": "Ananya Bose",
+      "email": "ananyabose@jee.edu",
+      "password": "ananya@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-1",
+      "name": "Sana Khan",
+      "email": "sanakhan@neet.edu",
+      "password": "sana@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-2",
+      "name": "Mohit Singh",
+      "email": "mohitsingh@neet.edu",
+      "password": "mohit@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-3",
+      "name": "Pooja Yadav",
+      "email": "poojayadav@neet.edu",
+      "password": "pooja@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-4",
+      "name": "Amit Roy",
+      "email": "amitroy@neet.edu",
+      "password": "amit@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-5",
+      "name": "Divya Menon",
+      "email": "divyamenon@neet.edu",
+      "password": "divya@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-6",
+      "name": "Kabir Khan",
+      "email": "kabirkhan@neet.edu",
+      "password": "kabir@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-7",
+      "name": "Meera Iyer",
+      "email": "meeraiyer@neet.edu",
+      "password": "meera@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-8",
+      "name": "Rohit Jain",
+      "email": "rohitjain@neet.edu",
+      "password": "rohit@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-9",
+      "name": "Swati Lal",
+      "email": "swatilal@neet.edu",
+      "password": "swati@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-10",
+      "name": "Tarun Sinha",
+      "email": "tarunsinha@neet.edu",
+      "password": "tarun@123",
+      "stream": "NEET",
+      "role": "student"
+    }
+  ],
+  
+  "users": [
+    {
+      "id": "user-jee-1",
+      "name": "Arjun Patel",
+      "email": "arjunpatel@jee.edu",
+      "password": "arjun@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-2",
+      "name": "Vikram Rao",
+      "email": "vikramrao@jee.edu",
+      "password": "vikram@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-3",
+      "name": "Rhea Sharma",
+      "email": "rheasharma@jee.edu",
+      "password": "rhea@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-4",
+      "name": "Karan Gupta",
+      "email": "karangupta@jee.edu",
+      "password": "karan@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-5",
+      "name": "Ishaan Mehta",
+      "email": "ishaanmehta@jee.edu",
+      "password": "ishaan@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-6",
+      "name": "Neha Kapoor",
+      "email": "nehakapoor@jee.edu",
+      "password": "neha@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-7",
+      "name": "Siddharth Das",
+      "email": "siddharthdas@jee.edu",
+      "password": "siddharth@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-8",
+      "name": "Priya Nair",
+      "email": "priyanair@jee.edu",
+      "password": "priya@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-9",
+      "name": "Rahul Verma",
+      "email": "rahulverma@jee.edu",
+      "password": "rahul@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-jee-10",
+      "name": "Ananya Bose",
+      "email": "ananyabose@jee.edu",
+      "password": "ananya@123",
+      "stream": "JEE",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-1",
+      "name": "Sana Khan",
+      "email": "sanakhan@neet.edu",
+      "password": "sana@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-2",
+      "name": "Mohit Singh",
+      "email": "mohitsingh@neet.edu",
+      "password": "mohit@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-3",
+      "name": "Pooja Yadav",
+      "email": "poojayadav@neet.edu",
+      "password": "pooja@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-4",
+      "name": "Amit Roy",
+      "email": "amitroy@neet.edu",
+      "password": "amit@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-5",
+      "name": "Divya Menon",
+      "email": "divyamenon@neet.edu",
+      "password": "divya@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-6",
+      "name": "Kabir Khan",
+      "email": "kabirkhan@neet.edu",
+      "password": "kabir@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-7",
+      "name": "Meera Iyer",
+      "email": "meeraiyer@neet.edu",
+      "password": "meera@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-8",
+      "name": "Rohit Jain",
+      "email": "rohitjain@neet.edu",
+      "password": "rohit@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-9",
+      "name": "Swati Lal",
+      "email": "swatilal@neet.edu",
+      "password": "swati@123",
+      "stream": "NEET",
+      "role": "student"
+    },
+    {
+      "id": "user-neet-10",
+      "name": "Tarun Sinha",
+      "email": "tarunsinha@neet.edu",
+      "password": "tarun@123",
+      "stream": "NEET",
+      "role": "student"
+    }
+  ],
+  "credentials": [
+    {
+      "name": "Arjun Patel",
+      "email": "arjunpatel@jee.edu",
+      "password": "arjun@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Vikram Rao",
+      "email": "vikramrao@jee.edu",
+      "password": "vikram@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Rhea Sharma",
+      "email": "rheasharma@jee.edu",
+      "password": "rhea@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Karan Gupta",
+      "email": "karangupta@jee.edu",
+      "password": "karan@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Ishaan Mehta",
+      "email": "ishaanmehta@jee.edu",
+      "password": "ishaan@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Neha Kapoor",
+      "email": "nehakapoor@jee.edu",
+      "password": "neha@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Siddharth Das",
+      "email": "siddharthdas@jee.edu",
+      "password": "siddharth@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Priya Nair",
+      "email": "priyanair@jee.edu",
+      "password": "priya@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Rahul Verma",
+      "email": "rahulverma@jee.edu",
+      "password": "rahul@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Ananya Bose",
+      "email": "ananyabose@jee.edu",
+      "password": "ananya@123",
+      "stream": "JEE"
+    },
+    {
+      "name": "Sana Khan",
+      "email": "sanakhan@neet.edu",
+      "password": "sana@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Mohit Singh",
+      "email": "mohitsingh@neet.edu",
+      "password": "mohit@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Pooja Yadav",
+      "email": "poojayadav@neet.edu",
+      "password": "pooja@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Amit Roy",
+      "email": "amitroy@neet.edu",
+      "password": "amit@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Divya Menon",
+      "email": "divyamenon@neet.edu",
+      "password": "divya@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Kabir Khan",
+      "email": "kabirkhan@neet.edu",
+      "password": "kabir@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Meera Iyer",
+      "email": "meeraiyer@neet.edu",
+      "password": "meera@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Rohit Jain",
+      "email": "rohitjain@neet.edu",
+      "password": "rohit@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Swati Lal",
+      "email": "swatilal@neet.edu",
+      "password": "swati@123",
+      "stream": "NEET"
+    },
+    {
+      "name": "Tarun Sinha",
+      "email": "tarunsinha@neet.edu",
+      "password": "tarun@123",
+      "stream": "NEET"
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee-q-1",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Calculus",
+      "question": "(JEE) Question on Calculus ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-2",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Algebra",
+      "question": "(JEE) Question on Algebra ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-3",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Mechanics",
+      "question": "(JEE) Question on Mechanics ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-4",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Electrostatics",
+      "question": "(JEE) Question on Electrostatics ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-5",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Coordinate Geometry",
+      "question": "(JEE) Question on Coordinate Geometry ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-6",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Probability",
+      "question": "(JEE) Question on Probability ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-7",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Trigonometry",
+      "question": "(JEE) Question on Trigonometry ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-8",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Thermodynamics",
+      "question": "(JEE) Question on Thermodynamics ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-9",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Complex Numbers",
+      "question": "(JEE) Question on Complex Numbers ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "jee-q-10",
+      "stream": "JEE",
+      "difficulty": "mid",
+      "topic": "Vectors",
+      "question": "(JEE) Question on Vectors ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "correct_answer": "A"
+    },
+    {
+      "id": "neet-q-1",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Human Physiology",
+      "question": "(NEET) Question on Human Physiology ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-2",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Organic Chemistry",
+      "question": "(NEET) Question on Organic Chemistry ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-3",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Inorganic Chemistry",
+      "question": "(NEET) Question on Inorganic Chemistry ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-4",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Genetics",
+      "question": "(NEET) Question on Genetics ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-5",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Plant Physiology",
+      "question": "(NEET) Question on Plant Physiology ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-6",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Biochemistry",
+      "question": "(NEET) Question on Biochemistry ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-7",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Cell Biology",
+      "question": "(NEET) Question on Cell Biology ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-8",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Anatomy",
+      "question": "(NEET) Question on Anatomy ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-9",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Evolution",
+      "question": "(NEET) Question on Evolution ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    },
+    {
+      "id": "neet-q-10",
+      "stream": "NEET",
+      "difficulty": "mid",
+      "topic": "Ecology",
+      "question": "(NEET) Question on Ecology ...",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "correct_answer": "B"
+    }
+  ],
+  "youtubeVideos": [
+    {
+    "id": "yt-jee-1",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Calculus Tutorial",
+    "topic": "Calculus",
+    "stream": "JEE",
+    "language": "Hindi",
+    "youtube_url": "https://www.youtube.com/watch?v=TG67Lxffzts&list=PLVLoWQFkZbhWhXFdLmL68li7gVt7s0KVs"
+  },
+  {
+    "id": "yt-jee-2",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Algebra Tutorial",
+    "topic": "Algebra",
+    "stream": "JEE",
+   " language": "English",
+    "youtube_url": "https://www.youtube.com/watch?v=j6NBRQ_FrNE"
+  },
+  {
+    "id": "yt-jee-3",
+   " videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Mechanics Tutorial",
+    "topic": "Mechanics",
+    "stream": "JEE",
+    "language": "Hindi",
+   " youtube_url": "https://www.youtube.com/watch?v=B3yFILY36i8"
+  },
+  {
+    "id": "yt-jee-4",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Electrostatics Tutorial",
+   " topic": "Electrostatics",
+    "stream": "JEE",
+    "language": "Hindi",
+    "youtube_url": "https://www.youtube.com/watch?v=oes_203yHBU&pp=ygUYamVlIGVsZWN0cm9zdGF0aWNzIGhpbmRp"
+  },
+  {
+    "id": "yt-jee-5",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Coordinate Geometry Tutorial",
+    "topic": "Coordinate Geometry",
+    "stream": "JEE",
+    "language": "English",
+    "youtube_url": "https://www.youtube.com/watch?v=w_89Eiz2LcE&pp=ygUdamVlIGNvb3JkaW5hdGUgZ2VvbWV0cnkgaGluZGk%3D"
+  },
+  {
+    "id": "yt-jee-6",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Probability Tutorial",
+    "topic": "Probability",
+    "stream": "JEE",
+    "language": "Hindi",
+    "youtube_url": "https://www.youtube.com/watch?v=SaaSf99UWxo&pp=ygUUamVlIHByb2JhYmlsdHkgaGluZGk%3D"
+  },
+  {
+    "id": "yt-jee-7",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Trigonometry Tutorial",
+    "topic": "Trigonometry",
+    "stream": "JEE",
+    "language": "English",
+    "youtube_url": "https://www.youtube.com/watch?v=pzzoBw3cm1Q&pp=ygUQamVlIHRyaWdvbm9tZXRyeQ%3D%3D"
+  },
+  {
+    "id": "yt-jee-8",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Thermodynamics Tutorial",
+    "topic": "Thermodynamics",
+    "stream": "JEE",
+    "language": "English",
+    "youtube_url": "https://www.youtube.com/watch?v=tMHrpmJH5I8&pp=ygUSamVlIHRoZXJtb2R5bmFtaWNz"
+  },
+  {
+    "id": "yt-jee-9",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Complex Numbers Tutorial",
+    "topic": "Complex Numbers",
+    "stream": "JEE",
+    "language": "Hindi",
+    "youtube_url": "https://www.youtube.com/watch?v=sKwCHRS8zqA&pp=ygUOamVlIGNvbXBsZXggbm8%3D"
+  },
+  {
+    "id": "yt-jee-10",
+    "videoId": "dQw4w9WgXcQ",
+    "title": "JEE: Vectors Tutorial",
+   " topic": "Vectors",
+    "stream": "JEE",
+    "language": "Hindi",
+    "youtube_url": "https://www.youtube.com/watch?v=dcVOOKmOEmw&list=PLbu_fGT0MPsvj-vBNsKMtrvwLEGdLNjzl"
+  },
+    {
+      "id": "yt-neet-1",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Human Physiology Tutorial",
+      "topic": "Human Physiology",
+      "stream": "NEET",
+      "language": "English",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-2",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Organic Chemistry Tutorial",
+      "topic": "Organic Chemistry",
+      "stream": "NEET",
+      "language": "Hindi",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-3",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Inorganic Chemistry Tutorial",
+      "topic": "Inorganic Chemistry",
+      "stream": "NEET",
+      "language": "English",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-4",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Genetics Tutorial",
+      "topic": "Genetics",
+      "stream": "NEET",
+      "language": "English",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-5",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Plant Physiology Tutorial",
+      "topic": "Plant Physiology",
+      "stream": "NEET",
+      "language": "Hindi",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-6",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Biochemistry Tutorial",
+      "topic": "Biochemistry",
+      "stream": "NEET",
+      "language": "English",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-7",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Cell Biology Tutorial",
+      "topic": "Cell Biology",
+      "stream": "NEET",
+      "language": "English",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-8",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Anatomy Tutorial",
+      "topic": "Anatomy",
+      "stream": "NEET",
+      "language": "English",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-9",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Evolution Tutorial",
+      "topic": "Evolution",
+      "stream": "NEET",
+      "language": "Hindi",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "yt-neet-10",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "NEET: Ecology Tutorial",
+      "topic": "Ecology",
+      "stream": "NEET",
+      "language": "Hindi",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ],
+  "videoInteractions": [],
+  "quiz_submissions": [],
+  "ai_chat_logs": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
