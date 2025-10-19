@@ -4,6 +4,10 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
+export default {
+  base: '/Learnaura/',  // 👈 this must match your repo name
+}
+
 export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
