@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default {
-  base: '/Learnaura/',  // 👈 this must match your repo name
+  base: '/Learnaura/',  
 }
 
 export default defineConfig(({ mode }) => ({
